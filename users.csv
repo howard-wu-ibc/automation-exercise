@@ -1,0 +1,4 @@
+name,email,password,title,birth_date,birth_month,birth_year,first_name,last_name,company,address1,address2,country,state,city,zipcode,mobile_number
+John Doe,john.doe1@example.com,Password123!,Mr,1,1,1990,John,Doe,Example Inc.,123 Main St,Apt 4B,United States,California,Los Angeles,90001,1234567890
+Jane Smith,jane.smith1@example.com,Password123!,Mrs,15,6,1985,Jane,Smith,Tech Corp,456 Oak Ave,,United States,New York,New York,10001,9876543210
+Bob Johnson,bob.johnson1@example.com,Password123!,Mr,22,3,1978,Bob,Johnson,Data Ltd,789 Pine Rd,Suite 100,United States,Texas,Houston,77001,5556667777
